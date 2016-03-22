@@ -1,4 +1,4 @@
-Tahm --- a O2O catering application with MEAN architecture, and codes are deposited on Bitbucket with services  deployed on Bluemix.
+Tahm --- an O2O catering application with MEAN architecture, and codes are deposited on Bitbucket with services  deployed on Bluemix.
 This application allows you to display, order and pay, with the results updating in real-time. 
 
 The app uses the following libraries and frameworks:
