@@ -7,8 +7,11 @@ Express
 Jade templates
 Mongoose
 AngularJS
-Bootstrap 3
+Bootstrap: angular-ui and twitter
 Socket.io
+Passport: aurthentication
+Yeomam
+generator-angular-fullstack*
 
 Demo
 You can see the app running live at http://******.bluemix.net/.
